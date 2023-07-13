@@ -1,0 +1,56 @@
+Day 3:
+
+
+Interfaces
+C# Keywords
+Object Orientation
+
+	Solution
+		(Logical collection of projects)
+		mysolution.sln
+		project1
+		            logical collection of  namespaces
+			project1.csproj
+			source code
+			     collection of cs files
+			     .cs file
+			       one or more namespaces
+				logical collection of .net types
+				structure
+				     data members,
+				     parameterized constructor
+				class
+				    data members
+				    member functions
+				    static variables
+				    static methods
+					set of instructions
+
+
+            Steps for Creating .net soluton
+
+	 ECommerce (solution)
+		CatalogLib--------------------------------------------------------class libraries
+			Product.cs
+		 MembershipLib------------------------------------------------
+			AuthManager.cs
+
+		 ShoppingcartLib----------------------------------------------
+			Cart.cs
+			Item.cs
+		OrderprocessingLib--------------------------------------------
+			Order.cs
+			Invoice.cs
+			Bill.cs
+		CrmLib
+			Customer.cs
+			
+		TestApp ( Unit Testing for modules of solution)------console app
+			add references of class libraries
+
+
+
+		project2
+			project1.csproj
+			source code
+			     .cs files

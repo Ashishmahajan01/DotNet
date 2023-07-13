@@ -1,0 +1,12 @@
+C:\Dotnet\Day_3\ECommerce\OrderProcessing\bin\Debug\net7.0\OrderProcessing.deps.json
+C:\Dotnet\Day_3\ECommerce\OrderProcessing\bin\Debug\net7.0\OrderProcessing.dll
+C:\Dotnet\Day_3\ECommerce\OrderProcessing\bin\Debug\net7.0\OrderProcessing.pdb
+C:\Dotnet\Day_3\ECommerce\OrderProcessing\obj\Debug\net7.0\OrderProcessing.csproj.AssemblyReference.cache
+C:\Dotnet\Day_3\ECommerce\OrderProcessing\obj\Debug\net7.0\OrderProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet\Day_3\ECommerce\OrderProcessing\obj\Debug\net7.0\OrderProcessing.AssemblyInfoInputs.cache
+C:\Dotnet\Day_3\ECommerce\OrderProcessing\obj\Debug\net7.0\OrderProcessing.AssemblyInfo.cs
+C:\Dotnet\Day_3\ECommerce\OrderProcessing\obj\Debug\net7.0\OrderProcessing.csproj.CoreCompileInputs.cache
+C:\Dotnet\Day_3\ECommerce\OrderProcessing\obj\Debug\net7.0\OrderProcessing.dll
+C:\Dotnet\Day_3\ECommerce\OrderProcessing\obj\Debug\net7.0\refint\OrderProcessing.dll
+C:\Dotnet\Day_3\ECommerce\OrderProcessing\obj\Debug\net7.0\OrderProcessing.pdb
+C:\Dotnet\Day_3\ECommerce\OrderProcessing\obj\Debug\net7.0\ref\OrderProcessing.dll

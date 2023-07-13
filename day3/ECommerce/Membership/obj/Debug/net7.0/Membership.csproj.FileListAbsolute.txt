@@ -1,0 +1,12 @@
+C:\Dotnet\Day_3\ECommerce\Membership\bin\Debug\net7.0\Membership.deps.json
+C:\Dotnet\Day_3\ECommerce\Membership\bin\Debug\net7.0\Membership.dll
+C:\Dotnet\Day_3\ECommerce\Membership\bin\Debug\net7.0\Membership.pdb
+C:\Dotnet\Day_3\ECommerce\Membership\obj\Debug\net7.0\Membership.csproj.AssemblyReference.cache
+C:\Dotnet\Day_3\ECommerce\Membership\obj\Debug\net7.0\Membership.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet\Day_3\ECommerce\Membership\obj\Debug\net7.0\Membership.AssemblyInfoInputs.cache
+C:\Dotnet\Day_3\ECommerce\Membership\obj\Debug\net7.0\Membership.AssemblyInfo.cs
+C:\Dotnet\Day_3\ECommerce\Membership\obj\Debug\net7.0\Membership.csproj.CoreCompileInputs.cache
+C:\Dotnet\Day_3\ECommerce\Membership\obj\Debug\net7.0\Membership.dll
+C:\Dotnet\Day_3\ECommerce\Membership\obj\Debug\net7.0\refint\Membership.dll
+C:\Dotnet\Day_3\ECommerce\Membership\obj\Debug\net7.0\Membership.pdb
+C:\Dotnet\Day_3\ECommerce\Membership\obj\Debug\net7.0\ref\Membership.dll

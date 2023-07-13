@@ -1,0 +1,12 @@
+C:\Dotnet\Day_3\ECommerce\Catalog\bin\Debug\net7.0\Catalog.deps.json
+C:\Dotnet\Day_3\ECommerce\Catalog\bin\Debug\net7.0\Catalog.dll
+C:\Dotnet\Day_3\ECommerce\Catalog\bin\Debug\net7.0\Catalog.pdb
+C:\Dotnet\Day_3\ECommerce\Catalog\obj\Debug\net7.0\Catalog.csproj.AssemblyReference.cache
+C:\Dotnet\Day_3\ECommerce\Catalog\obj\Debug\net7.0\Catalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet\Day_3\ECommerce\Catalog\obj\Debug\net7.0\Catalog.AssemblyInfoInputs.cache
+C:\Dotnet\Day_3\ECommerce\Catalog\obj\Debug\net7.0\Catalog.AssemblyInfo.cs
+C:\Dotnet\Day_3\ECommerce\Catalog\obj\Debug\net7.0\Catalog.csproj.CoreCompileInputs.cache
+C:\Dotnet\Day_3\ECommerce\Catalog\obj\Debug\net7.0\Catalog.dll
+C:\Dotnet\Day_3\ECommerce\Catalog\obj\Debug\net7.0\refint\Catalog.dll
+C:\Dotnet\Day_3\ECommerce\Catalog\obj\Debug\net7.0\Catalog.pdb
+C:\Dotnet\Day_3\ECommerce\Catalog\obj\Debug\net7.0\ref\Catalog.dll
